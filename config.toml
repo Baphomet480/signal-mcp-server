@@ -1,0 +1,3 @@
+account = "+14805788164"
+signal_cli_path = "/opt/homebrew/bin/signal-cli"
+storage = "./var"

@@ -1,0 +1,1 @@
+/Users/matthias/github/signal-mcp-server/target/debug/signal-mcp-server: /Users/matthias/github/signal-mcp-server/src/main.rs /Users/matthias/github/signal-mcp-server/src/mcp.rs /Users/matthias/github/signal-mcp-server/src/server.rs /Users/matthias/github/signal-mcp-server/src/settings.rs /Users/matthias/github/signal-mcp-server/src/signal_cli.rs
